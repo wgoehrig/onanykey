@@ -1,0 +1,23 @@
+{
+  "name": "onanykey",
+  "version": "1.0.0",
+  "description": "Simple helper to wait for any input.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc 1>&2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgoehrig/onanykey.git"
+  },
+  "author": "Bill Goehrig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wgoehrig/onanykey/issues"
+  },
+  "homepage": "https://github.com/wgoehrig/onanykey#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.21",
+    "typescript": "~3.7.5"
+  }
+}
